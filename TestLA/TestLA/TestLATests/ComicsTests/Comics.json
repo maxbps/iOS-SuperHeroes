@@ -1,0 +1,2885 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2020 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+    "etag": "a5c31ff9c25f6e0ce6937dc28ac9f112642ac2cf",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 3879,
+        "count": 20,
+        "results": [
+            {
+                "id": 21171,
+                "digitalId": 0,
+                "title": "Amazing Spider-Man (1999) #558 (Turner Variant)",
+                "issueNumber": 558,
+                "variantDescription": "Turner Variant",
+                "description": "The frighteningly funky and fearsome Freak returns, more powerful than ever! And this action-packed issue features the \r<br>gorgeous art of Barry Kitson - fresh from Marvel's THE ORDER!  Plus: Menace! Curt Connors!  Aunt May!  Lots of innocent bystanders!  Gale wrote it, Wacker edited it, and Marvel actually thought it was a good idea to publish it!\r<br>Rated A ...$2.99 \r<br>",
+                "modified": "-0001-11-30T00:00:00-0500",
+                "isbn": "",
+                "upc": "5960604716-55821",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "The frighteningly funky and fearsome Freak returns, more powerful than ever! And this action-packed issue features the \r<br>gorgeous art of Barry Kitson - fresh from Marvel's THE ORDER!  Plus: Menace! Curt Connors!  Aunt May!  Lots of innocent bystanders!  Gale wrote it, Wacker edited it, and Marvel actually thought it was a good idea to publish it!\r<br>Rated A ...$2.99 \r<br>"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21171",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21171/amazing_spider-man_1999_558_turner_variant/turner_variant?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+                    "name": "Amazing Spider-Man (1999 - 2013)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21172",
+                        "name": "Amazing Spider-Man (1999) #558"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2029-12-31T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 2.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+                    "extension": "jpg"
+                },
+                "images": [],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4953",
+                            "name": "Bob Gale",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+                            "name": "Barry Kitson",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/856",
+                            "name": "Michael Turner",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46768",
+                            "name": "1 of 1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46769",
+                            "name": "1 of 1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 1308,
+                "digitalId": 0,
+                "title": "Marvel Age Spider-Man Vol. 2: Everyday Hero (Digest)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "\"The Marvel Age of Comics continues! This time around, Spidey meets his match against such classic villains as Electro and the Lizard, and faces the return of one of his first foes: the Vulture! Plus: Spider-Man vs. the Living Brain, Peter Parker's fight with Flash Thompson, and the wall-crawler tackles the high-flying Human Torch!\"",
+                "modified": "2018-01-22T15:42:11-0500",
+                "isbn": "0-7851-1451-3",
+                "upc": "5960611451-00111",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Digest",
+                "pageCount": 96,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "\"The Marvel Age of Comics continues! This time around, Spidey meets his match against such classic villains as Electro and the Lizard, and faces the return of one of his first foes: the Vulture! Plus: Spider-Man vs. the Living Brain, Peter Parker's fight with Flash Thompson, and the wall-crawler tackles the high-flying Human Torch!\""
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/1308",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/1308/marvel_age_spider-man_vol_2_everyday_hero_digest?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1242",
+                    "name": "Marvel Age Spider-Man Vol. 2: Everyday Hero (2004)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/546",
+                        "name": "Marvel Age Spider-Man (2004) #8"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/610",
+                        "name": "Marvel Age Spider-Man (2004) #7"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/728",
+                        "name": "Marvel Age Spider-Man (2004) #6"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/681",
+                        "name": "Marvel Age Spider-Man (2004) #5"
+                    }
+                ],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2029-12-31T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 5.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc665483c3aa",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5a664c954a55b",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5a6648f8aaccc",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5a6648efbc46c",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5a6648c368f52",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc689a4ce796",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4bc684889f8ed",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6809bdc81b",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc665483c3aa",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                            "name": "Mark Brooks",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                            "name": "Michael Ryan",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+                            "name": "Udon Comics",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/692",
+                            "name": "Pat Davidson",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+                            "name": "Derek Fridolfs",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6743",
+                            "name": "Rich Perrotta",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+                            "name": "Todd Dezago",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/326",
+                            "name": "Daniel Quantz",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/691",
+                            "name": "Jonboy Meyers",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/688",
+                            "name": "Michael OHare",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2759",
+                            "name": "Cover #2759",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2760",
+                            "name": "Interior #2760",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2763",
+                            "name": "Cover #2763",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2764",
+                            "name": "Interior #2764",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2769",
+                            "name": "Cover #2769",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2770",
+                            "name": "Interior #2770",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2771",
+                            "name": "Cover #2771",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2772",
+                            "name": "Interior #2772",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/65682",
+                            "name": "MARVEL AGE SPIDER-MAN VOL. 2: EVERYDAY HERO 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 55696,
+                "digitalId": 0,
+                "title": "SPIDER-MAN: MILES MORALES VOL. 2 TPB (Trade Paperback)",
+                "issueNumber": 2,
+                "variantDescription": "",
+                "description": "Miles Morales has only been in the Marvel Universe a short time, and now he's in the middle of a war! But as Marvel's heroes are torn apart by CIVIL WAR II, which side will Miles choose? Or can he and his Avengers friends Nova and Ms. Marvel find their own way? Things really get complicated when the future-seeing Inhuman Ulysses has a vision that puts Miles at the top of the most-wanted list! What terrible prediction could change the way the world looks at this young Spider-Man? Miles becomes a target, fighting to survive. Does he have any hope of escaping his pursuers — or his fate? Plus: Discover the untold history of Miles' father! What was life like for Jefferson Davis before his son was born — back when he was an agent of S.H.I.E.L.D.?! Collects Spider-Man (2016) #6-11.",
+                "modified": "2017-03-24T13:55:23-0400",
+                "isbn": "978-0-7851-9962-5",
+                "upc": "",
+                "diamondCode": "JAN171116",
+                "ean": "9780785 199625 51599",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Miles Morales has only been in the Marvel Universe a short time, and now he's in the middle of a war! But as Marvel's heroes are torn apart by CIVIL WAR II, which side will Miles choose? Or can he and his Avengers friends Nova and Ms. Marvel find their own way? Things really get complicated when the future-seeing Inhuman Ulysses has a vision that puts Miles at the top of the most-wanted list! What terrible prediction could change the way the world looks at this young Spider-Man? Miles becomes a target, fighting to survive. Does he have any hope of escaping his pursuers — or his fate? Plus: Discover the untold history of Miles' father! What was life like for Jefferson Davis before his son was born — back when he was an agent of S.H.I.E.L.D.?! Collects Spider-Man (2016) #6-11."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55696",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/55696/spider-man_miles_morales_vol_2_tpb_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20510",
+                    "name": "SPIDER-MAN: MILES MORALES VOL. 2 TPB (2017)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-03-04T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2017-02-06T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58d56148e1b8b",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/58d56148e1b8b",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55696/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                            "name": "Brian Michael Bendis",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13506",
+                            "name": "Gaetano Carlucci",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13033",
+                            "name": "Nico Leon",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                            "name": "Sara Pichelli",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+                            "name": "Marte Gracia",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+                            "name": "Rachelle Rosenberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+                            "name": "Vc Cory Petit",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55696/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                            "name": "Captain Marvel (Carol Danvers)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017577",
+                            "name": "Ms. Marvel (Kamala Khan)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017078",
+                            "name": "Nova (Sam Alexander)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+                            "name": "Spider-Man (Miles Morales)"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55696/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/122435",
+                            "name": "cover from Spider-Man (2016)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/122436",
+                            "name": "story from Spider-Man (2016)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55696/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 81327,
+                "digitalId": 0,
+                "title": "Amazing Spider-Man Facsimile Edition (2020) #347",
+                "issueNumber": 347,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-23T10:23:41-0500",
+                "isbn": "",
+                "upc": "75960609719700111",
+                "diamondCode": "NOV190900",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/81327",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/81327/amazing_spider-man_facsimile_edition_2020_347?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/AMAZING-SPIDER-MAN-347-FACSIMILE-EDITION-347/digital-comic/53529?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/29115",
+                    "name": "Amazing Spider-Man Facsimile Edition (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-29T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2020-01-06T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5e28912b8c988",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5e28912b8c988",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/81327/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+                            "name": "Michael Kelleher",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/704",
+                            "name": "Erik Larsen",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+                            "name": "David Michelinie",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/81327/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/81327/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/180375",
+                            "name": "cover from Thor 337 Facsimile Edition (2020) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/180376",
+                            "name": "story from Thor 337 Facsimile Edition (2020) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/81327/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 74024,
+                "digitalId": 0,
+                "title": "Friendly Neighborhood Spider-Man Vol. 2: Hostile Takeovers (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-24T15:26:44-0500",
+                "isbn": "978-1-302-91691-6",
+                "upc": "",
+                "diamondCode": "SEP190987",
+                "ean": "9781302 916916 51799",
+                "issn": "1557-7120",
+                "format": "Trade Paperback",
+                "pageCount": 176,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/74024",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/74024/friendly_neighborhood_spider-man_vol_2_hostile_takeovers_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/26681",
+                    "name": "Friendly Neighborhood Spider-Man Vol. 2: Hostile Takeovers (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-29T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-12-09T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5e28b33614ffc",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5e28b33614ffc",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74024/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13101",
+                            "name": "Andrew C. Robinson",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74024/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74024/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/164862",
+                            "name": "cover from FRIENDLY NEIGHBORHOOD SPIDER-MAN VOL. 2 TPB (2019) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/164863",
+                            "name": "story from FRIENDLY NEIGHBORHOOD SPIDER-MAN VOL. 2 TPB (2019) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74024/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 82260,
+                "digitalId": 0,
+                "title": "Amazing Spider-Man Epic Collection: Maximum Carnage (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-10T14:33:22-0500",
+                "isbn": "978-1-302-92190-3",
+                "upc": "",
+                "diamondCode": "OCT191135",
+                "ean": "9781302 921903 53999",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 432,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/82260",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/82260/amazing_spider-man_epic_collection_maximum_carnage_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/AMAZING-SPIDER-MAN-EPIC-COLLECTION-MAXIMUM-CARNAGE-TPB-0/digital-comic/53622?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/29182",
+                    "name": "Amazing Spider-Man Epic Collection: Maximum Carnage (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-15T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-25T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 39.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5e15f6578ca69",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5e15f6578ca69",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/82260/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+                            "name": "Various",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10581",
+                            "name": "Vero Gandini",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+                            "name": "Ron Lim",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/82260/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/82260/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/182264",
+                            "name": "cover from AMAZING SPIDER-MAN EPIC COLLECTION: MAXIMUM CARNAGE TPB (2020) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/182265",
+                            "name": "story from AMAZING SPIDER-MAN EPIC COLLECTION: MAXIMUM CARNAGE TPB (2020) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/82260/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 71394,
+                "digitalId": 0,
+                "title": "Miles Morales Vol. 2: Bring On The Bad Guys (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-30T12:06:02-0500",
+                "isbn": "978-1-302-91479-0",
+                "upc": "",
+                "diamondCode": "OCT191116",
+                "ean": "9781302 914790 51599",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/71394",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/71394/miles_morales_vol_2_bring_on_the_bad_guys_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/26019",
+                    "name": "Miles Morales Vol. 2: Bring On The Bad Guys (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-11T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 15.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5e0137e77a07f",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5e0137e77a07f",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71394/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12389",
+                            "name": "Ron Ackins",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+                            "name": "Javier Garron",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/794",
+                            "name": "Alitha Martinez",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12767",
+                            "name": "Vanesa Del Rey",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13061",
+                            "name": "Cory Smith",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13081",
+                            "name": "Saladin Ahmed",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+                            "name": "Tom Taylor",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+                            "name": "Mahmud Asrar",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71394/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71394/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/158764",
+                            "name": "cover from MILES MORALES: SPIDER-MAN VOL. 2 TPB (2020) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/158765",
+                            "name": "story from MILES MORALES: SPIDER-MAN VOL. 2 TPB (2020) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71394/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 84095,
+                "digitalId": 0,
+                "title": "True Believers: The Criminally Insane - Green Goblin (2020) #1",
+                "issueNumber": 1,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-23T16:12:49-0500",
+                "isbn": "",
+                "upc": "75960609811800111",
+                "diamondCode": "AUG199029",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/84095",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/84095/true_believers_the_criminally_insane_-_green_goblin_2020_1?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-GREEN-GOBLIN-1-1/digital-comic/54450?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/29635",
+                    "name": "True Believers: The Criminally Insane - Green Goblin (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-24T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 1
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5e012a4edab01",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5e012a4edab01",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+                            "name": "Steve Ditko",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/185978",
+                            "name": "cover from True Believers: Ravencroft - Green Goblin (2020) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/185979",
+                            "name": "story from True Believers: Ravencroft - Green Goblin (2020) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/84095/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 74652,
+                "digitalId": 0,
+                "title": "Amazing Spider-Man by Nick Spencer Vol. 6: Absolute Carnage (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-27T10:45:01-0500",
+                "isbn": "978-1-302-91727-2",
+                "upc": "",
+                "diamondCode": "OCT191115",
+                "ean": "9781302 917272 51799",
+                "issn": "2644-0539",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/74652",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/74652/amazing_spider-man_by_nick_spencer_vol_6_absolute_carnage_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/26838",
+                    "name": "Amazing Spider-Man by Nick Spencer Vol. 6: Absolute Carnage (2019)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-11T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5e0136aee8584",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5e0136aee8584",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74652/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5933",
+                            "name": "Patrick Gleason",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13296",
+                            "name": "Ryan Ottley",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                            "name": "Nick Spencer",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74652/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74652/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/166142",
+                            "name": "cover from AMAZING SPIDER-MAN BY NICK SPENCER VOL. 6 TPB (2019) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/166143",
+                            "name": "story from AMAZING SPIDER-MAN BY NICK SPENCER VOL. 6 TPB (2019) #6",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74652/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 76508,
+                "digitalId": 0,
+                "title": "Legends Of Marvel: Spider-Man (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-30T11:20:31-0500",
+                "isbn": "978-1-302-91954-2",
+                "upc": "",
+                "diamondCode": "OCT191118",
+                "ean": "9781302 919542 51599",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/76508",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/76508/legends_of_marvel_spider-man_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/LEGENDS-OF-MARVEL-SPIDER-MAN-TPB-0/digital-comic/53639?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27430",
+                    "name": "Legends Of Marvel: Spider-Man (2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-11T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 15.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5e013699e90fc",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5e013699e90fc",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76508/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+                            "name": "Various",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                            "name": "Mark Bagley",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76508/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76508/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/169882",
+                            "name": "cover from MARVEL'S 80TH ANNIVERSARY TPB (2019) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/169883",
+                            "name": "story from MARVEL'S 80TH ANNIVERSARY TPB (2019) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76508/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 77603,
+                "digitalId": 0,
+                "title": "Spider-Man & Venom: Double Trouble (2019) #3",
+                "issueNumber": 3,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-05T09:06:23-0500",
+                "isbn": "",
+                "upc": "75960609537700311",
+                "diamondCode": "AUG198997",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/77603",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/77603/spider-man_venom_double_trouble_2019_3?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Spider-Man-Venom-Double-Trouble-3/digital-comic/53589?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27806",
+                    "name": "Spider-Man & Venom: Double Trouble (2019 - 2020)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2020-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-24T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5e00d9faa52c7",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5e00d9faa52c7",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77603/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+                            "name": "G Gurihiru",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                            "name": "Vc Travis Lanham",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                            "name": "Edward Devin Lewis",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12945",
+                            "name": "Mariko Tamaki",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77603/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010787",
+                            "name": "Eddie Brock"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77603/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/172158",
+                            "name": "cover from Maximum Venom (2019) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/172159",
+                            "name": "story from Maximum Venom (2019) #3",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77603/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 76984,
+                "digitalId": 0,
+                "title": "Incoming (2019) #1",
+                "issueNumber": 1,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-17T14:43:48-0500",
+                "isbn": "",
+                "upc": "759606095071000111",
+                "diamondCode": "OCT190860",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 96,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/76984",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/76984/incoming_2019_1?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/INCOMING-1-1/digital-comic/53263?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27620",
+                    "name": "Incoming (2019)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82251",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83290",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83294",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83289",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83293",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83640",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83295",
+                        "name": "Incoming (2019) #1 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-26T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-18T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 9.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5df908fde11be",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5df908fde11be",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 51,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                            "name": "Jason Aaron",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13081",
+                            "name": "Saladin Ahmed",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12699",
+                            "name": "Ed Brisson",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+                            "name": "Donny Cates",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+                            "name": "Al Ewing",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13575",
+                            "name": "Eve Ewing",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+                            "name": "Jordie Bellaire",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+                            "name": "David Curiel",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13250",
+                            "name": "Romulo Fajardo Jr.",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13518",
+                            "name": "Triona Farrell",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+                            "name": "Marte Gracia",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+                            "name": "Joe Bennett",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "name": "Jim Cheung",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                            "name": "Tom Brevoort",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12385",
+                            "name": "Carmen Carnero",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13247",
+                            "name": "Rafael Fonteriz",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12466",
+                            "name": "Jorge Fornes",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+                            "name": "Javier Garron",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12981",
+                            "name": "Michael Garland",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5933",
+                            "name": "Patrick Gleason",
+                            "role": "inker (cover)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011198",
+                            "name": "Agents of Atlas"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010756",
+                            "name": "Champions"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+                            "name": "Daredevil"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011299",
+                            "name": "Guardians of the Galaxy"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009378",
+                            "name": "Jessica Jones"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                            "name": "X-Men"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/170840",
+                            "name": "cover from Blackout (2019) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/170841",
+                            "name": "story from Blackout (2019) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 75134,
+                "digitalId": 0,
+                "title": "Spider-Man (2019) #3",
+                "issueNumber": 3,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-11-15T09:20:36-0500",
+                "isbn": "",
+                "upc": "759606093541000311",
+                "diamondCode": "SEP190856",
+                "ean": "",
+                "issn": "2574-5352",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/75134",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/75134/spider-man_2019_3?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Spider-Man-3/digital-comic/53020?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27022",
+                    "name": "Spider-Man (2019 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/81801",
+                        "name": "Spider-Man (2019) #3 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82487",
+                        "name": "Spider-Man (2019) #3 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-18T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-18T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/5defb2083cd4c",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/5defb2083cd4c",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/75134/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "name": "Vc Joe Caramagna",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+                            "name": "Olivier Coipel",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                            "name": "Nick Lowe",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                            "name": "Sara Pichelli",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/501",
+                            "name": "Dave Stewart",
+                            "role": "colorist (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/75134/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/75134/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/167107",
+                            "name": "cover from Special Spider (2029) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/167108",
+                            "name": "story from Special Spider (2029) #3",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/75134/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 77104,
+                "digitalId": 0,
+                "title": "The Amazing Spider-Man (2018) #36",
+                "issueNumber": 36,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-09-18T09:02:50-0400",
+                "isbn": "",
+                "upc": "75960608936903611",
+                "diamondCode": "OCT190929",
+                "ean": "",
+                "issn": "2644-0539",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/77104",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/77104/the_amazing_spider-man_2018_36?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-36/digital-comic/53209?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+                    "name": "The Amazing Spider-Man (2018 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83247",
+                        "name": "The Amazing Spider-Man (2018) #36 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-18T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-18T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/5defb29e6441b",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/5defb29e6441b",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77104/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12998",
+                            "name": "Oscar Bazaldua",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "name": "Vc Joe Caramagna",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+                            "name": "Tony Daniel",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                            "name": "Edgar Delgado",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7887",
+                            "name": "Steve Firchow",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                            "name": "Nick Lowe",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                            "name": "Nick Spencer",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77104/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77104/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/171080",
+                            "name": "cover from The Amazing Spider-Man (2018) #36",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/171081",
+                            "name": "story from The Amazing Spider-Man (2018) #36",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77104/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 80484,
+                "digitalId": 0,
+                "title": "Marvel's Spider-Man: Velocity (2019) #5",
+                "issueNumber": 5,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-09-18T09:06:38-0400",
+                "isbn": "",
+                "upc": "75960609417200511",
+                "diamondCode": "OCT191006",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/80484",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/80484/marvels_spider-man_velocity_2019_5?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Marvel-s-Spider-Man-Velocity-5/digital-comic/53271?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27317",
+                    "name": "Marvel's Spider-Man: Velocity (2019 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83301",
+                        "name": "Marvel's Spider-Man: Velocity (2019) #5 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-18T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-18T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/5defb210d1a14",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/5defb210d1a14",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/80484/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+                            "name": "Mark Basso",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13616",
+                            "name": "Dennis \"Hopeless\" Hallum",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12817",
+                            "name": "Emilio Laiso",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                            "name": "Vc Travis Lanham",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+                            "name": "Rachelle Rosenberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13080",
+                            "name": "S SKAN",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/80484/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/80484/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/178092",
+                            "name": "cover from Gamerverse Spider-Man: Velocity (2019) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/178093",
+                            "name": "story from Gamerverse Spider-Man: Velocity (2019) #5",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/80484/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 71400,
+                "digitalId": 0,
+                "title": " Superior Spider-Man Vol. 2: Otto-matic (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-12-13T16:24:00-0500",
+                "isbn": "978-1-302-91481-3",
+                "upc": "",
+                "diamondCode": "SEP190996",
+                "ean": "9781302 914813 51799",
+                "issn": "2328-4811",
+                "format": "Trade Paperback",
+                "pageCount": 136,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/71400",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/71400/_superior_spider-man_vol_2_otto-matic_trade_paperback?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/26024",
+                    "name": " Superior Spider-Man Vol. 2: Otto-matic (2019)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-18T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-10-28T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5df3fc8b3c883",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5df3fc8b3c883",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71400/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                            "name": "Christos Gage",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/942",
+                            "name": "Mike Hawthorne",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/437",
+                            "name": "Lan Medina",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "name": "Jeff Youngquist",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71400/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71400/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/158776",
+                            "name": "cover from SUPERIOR SPIDER-MAN VOL. 2 TPB (2020) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/158777",
+                            "name": "story from SUPERIOR SPIDER-MAN VOL. 2 TPB (2020) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/71400/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 78368,
+                "digitalId": 0,
+                "title": "Symbiote Spider-Man: Alien Reality (2019) #1",
+                "issueNumber": 1,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-09-18T09:07:56-0400",
+                "isbn": "",
+                "upc": "75960609588900111",
+                "diamondCode": "OCT190971",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 40,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/78368",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/78368/symbiote_spider-man_alien_reality_2019_1?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Symbiote-Spider-Man-Alien-Reality-1/digital-comic/53300?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27949",
+                    "name": "Symbiote Spider-Man: Alien Reality (2019 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82430",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82617",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83329",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83330",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83331",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83332",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83333",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83334",
+                        "name": "Symbiote Spider-Man: Alien Reality (2019) #1 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-11T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-11T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 4.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/5de5497b95588",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/5de5497b95588",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/78368/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                            "name": "Frank D'ARMATA",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                            "name": "Peter David",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                            "name": "Greg Land",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+                            "name": "Jay Leisten",
+                            "role": "inker (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                            "name": "Edward Devin Lewis",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                            "name": "Vc Joe Sabino",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/78368/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/78368/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/173752",
+                            "name": "cover from Symbiote Spider-Man 1 (Volume 2) (2019) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/173753",
+                            "name": "story from Symbiote Spider-Man 1 (Volume 2) (2019) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/78368/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 74036,
+                "digitalId": 0,
+                "title": "Friendly Neighborhood Spider-Man (2019) #14",
+                "issueNumber": 14,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-11-07T09:13:53-0500",
+                "isbn": "",
+                "upc": "75960609263501411",
+                "diamondCode": "SEP190868",
+                "ean": "",
+                "issn": "1557-7120",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/74036",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/74036/friendly_neighborhood_spider-man_2019_14?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Friendly-Neighborhood-Spider-Man-14/digital-comic/52990?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/26679",
+                    "name": "Friendly Neighborhood Spider-Man (2019 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-11T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-11T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5de54a3f27806",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5de54a3f27806",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74036/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                            "name": "Vc Travis Lanham",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+                            "name": "Ken Lashley",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                            "name": "Nick Lowe",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13101",
+                            "name": "Andrew C. Robinson",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+                            "name": "Rachelle Rosenberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13105",
+                            "name": "Marguerite Sauvage",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+                            "name": "Tom Taylor",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74036/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74036/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/164886",
+                            "name": "cover from Friendly Neighborhood Spider-Man (2019) #14",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/164887",
+                            "name": "story from Friendly Neighborhood Spider-Man (2019) #14",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/74036/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 77602,
+                "digitalId": 0,
+                "title": "Spider-Man & Venom: Double Trouble (2019) #2",
+                "issueNumber": 2,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-11-27T09:22:01-0500",
+                "isbn": "",
+                "upc": "75960609537700211",
+                "diamondCode": "OCT190991",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/77602",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/77602/spider-man_venom_double_trouble_2019_2?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Spider-Man-Venom-Double-Trouble-2/digital-comic/53288?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/27806",
+                    "name": "Spider-Man & Venom: Double Trouble (2019 - 2020)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83317",
+                        "name": "Spider-Man & Venom: Double Trouble (2019) #2 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-04T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-04T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5ddc12d416df6",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5ddc12d416df6",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77602/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+                            "name": "G Gurihiru",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+                            "name": "Vc Travis Lanham",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+                            "name": "Edward Devin Lewis",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12945",
+                            "name": "Mariko Tamaki",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77602/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77602/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/172156",
+                            "name": "cover from Maximum Venom (2019) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/172157",
+                            "name": "story from Maximum Venom (2019) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77602/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 77103,
+                "digitalId": 0,
+                "title": "The Amazing Spider-Man (2018) #35",
+                "issueNumber": 35,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2019-11-27T09:05:44-0500",
+                "isbn": "",
+                "upc": "75960608936903511",
+                "diamondCode": "OCT190926",
+                "ean": "",
+                "issn": "2644-0539",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/77103",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/77103/the_amazing_spider-man_2018_35?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-35/digital-comic/53208?utm_campaign=apiRef&utm_source=e6e7953b8f47630c9a4fef0532b649cd"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+                    "name": "The Amazing Spider-Man (2018 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83246",
+                        "name": "The Amazing Spider-Man (2018) #35 (Variant)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82605",
+                        "name": "The Amazing Spider-Man (2018) #35 (Variant)"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2019-12-04T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2019-11-04T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5ddc132871629",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5ddc132871629",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77103/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12998",
+                            "name": "Oscar Bazaldua",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "name": "Vc Joe Caramagna",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+                            "name": "Tony Daniel",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                            "name": "Edgar Delgado",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7887",
+                            "name": "Steve Firchow",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                            "name": "Nick Lowe",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                            "name": "Nick Spencer",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77103/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+                            "name": "Doctor Doom"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77103/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/171078",
+                            "name": "cover from The Amazing Spider-Man (2018) #35",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/171079",
+                            "name": "story from The Amazing Spider-Man (2018) #35",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/77103/events",
+                    "items": [],
+                    "returned": 0
+                }
+            }
+        ]
+    }
+}
